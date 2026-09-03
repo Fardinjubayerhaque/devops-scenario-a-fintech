@@ -1,0 +1,9 @@
+{
+  "name": "fintech-devops-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "build": "node --check app.js",
+    "test": "node --test test.js"
+  }
+}
